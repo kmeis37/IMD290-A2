@@ -1,4 +1,4 @@
-# IMD290-A1
+# IMD290-A2
 Assignment 2: Interactive Model
 
 Objective
