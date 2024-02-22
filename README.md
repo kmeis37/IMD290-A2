@@ -18,3 +18,13 @@ Method
 - Distribute the task and implement the scene
 
 - Compile the experience into a single presentation with a live demonstration (Feb 20, 22).
+
+Rubric
+
+(10 points)
+
+    Teamwork: Collaborate using a github repo and submit the link [3 points] (Text Entry)
+    Demonstration: Run the gestural interactive scene without an error [2 points]
+    Presentation: Describe the model and/or world and how it responds to the gesture [3 points]
+    Presentation: Describe everyone’s rule [1 point]
+    Describe what you learned from this assignment [1 point] (Text Entry)
